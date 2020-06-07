@@ -5,7 +5,7 @@
 [JB BLOT - PASSWORD GENERATOR](https://jaaybe.github.io/password-generator/)
 
 ## Description
-This is the very first website I've built.  Its primary purpose is to showcase my current and future programming projects utlizing my newfound knowledge from the UCLA Programmer's Bootcamp.
+I've created an application that an employee can use to generate a random password based on criteria they’ve selected. This app runs in the browser, and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
 
 ## Technology Used
 <ul>
