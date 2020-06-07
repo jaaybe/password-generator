@@ -11,7 +11,7 @@ function writePassword() {
 
   var pwLength = prompt("Select the length of your password (between 8 and 128 characters)");
   if (Number(pwLength) < 8 || Number(pwLength) > 128) {
-    alert("please pick a number bewteen 8 and 128");
+    alert("Please pick a number bewteen 8 and 128");
   } else if (isNaN(pwLength) === true) {
     alert("You have picked a letter.  Plesae pick a number between 8 and 128");
   } else {
