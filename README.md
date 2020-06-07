@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Password Generator
 
 ![screenshot](./pw_screenshot.png)
 
